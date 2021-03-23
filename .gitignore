@@ -1,5 +1,6 @@
 # api ignore:
 server/node_modules
+server/dist
 server/.env
 server/.vscode
 
@@ -8,6 +9,7 @@ server/.vscode
 client/node_modules
 client/.pnp
 client/.pnp.js
+client/README.md
 
 # testing
 client/coverage

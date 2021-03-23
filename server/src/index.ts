@@ -16,6 +16,6 @@ app.use(morgan("dev"));
 app.use("/api", routes);
 
 // start server
-app.listen(process.env.PORT, () =>
+app.listen(process.env.PORT || 5000, () =>
   console.log(`🆙 Server running on port ${process.env.PORT}`)
 );
