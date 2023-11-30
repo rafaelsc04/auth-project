@@ -45,8 +45,3 @@ Em seguida, a aplicação redirecionará o usuário para rota protegida, dando i
 - MongoDB
 - mongoose
 - bcrypt
-
----
-## Contato
-- Email: rafasc0404@gmail.com
-- Linkedin: https://www.linkedin.com/in/r-camargo/
